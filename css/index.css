@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500;700&display=swap');
+ 
+*{
+margin: 0;
+padding: 0;
+font-family: 'Roboto', sans-serif;
+}
+
+
+h1{
+    margin: 10px 40px;
+    padding: 10px 0px;
+    color:  rgb(254, 174, 174);
+    background: rgb(160, 62, 62);
+}
+
+img{
+    margin: 0px 0px;
+    padding: 0px 0px;
+}
+
+p{
+    padding: 30px 0px;
+}
+
+button{
+    background: rgb(160, 62, 62);
+    color: aliceblue;
+    padding: 10px 10px;
+    margin: 30px 0px;
+}
+
+button:hover{
+color: chartreuse;
+}
+/*hover-yozuvni rangini o'zgartiradi*/
+
+button:active{
+    color:blue;
+}
+/*active-bosganda yozuvni rangini o'zgartiradi*/
+
+.Green{
+    background: rgb(82, 240, 82);
+    text-align: center;
+    container: 800px;
+    margin: 0px 40px;
+    padding: 0px 0px;
+}
+
+.container{
+    width: 1440px;
+    margin: 0px auto;
+    background: rgb(253, 202, 202);
+}
+
+.bottle{
+    background: rgb(253, 202, 202);
+    padding: 30px 0px;
+    margin: 0px 40px;
+}
+
+.bottle-title{
+    text-align: center;
+    color: #B45F4D;
+}
+
+.bottle .cards{
+width: 300px;
+color: #B45F4D;
+display: inline-block;
+text-align: left;
+margin: 0px 50px;
+}
+
+.bottle{
+    text-align: center;
+}
+
+.bottle .card{
+   padding-top: 20px;
+    }
+
+    .bottle .cards img{
+        width: 100%;
+        height: 400px;
+        }
+
+.bottle .card h3{
+ padding: 10px 0px;
+}
+
+.Rasm6{
+    text-align: center;
+    background: rgb(249, 248, 248);
+    container: 800px;
+    margin: 0px 40px;
+    padding: 0px 0px;
+}
+/*Figmada rasmni yon taraflari oq rang edi lekin ozgina o'zgartirdim*/
+
+.Rasm8{
+    background: rgb(240, 192, 110);
+    text-align: center;
+    margin: 0px 40px;
+    padding: 0px 0px;
+}
+
+.Rasm8 img{
+    width: 400px;
+    height: 550px;
+    margin: 40px 80px;
+}
+
+h4{
+    text-align: center;
+    padding: 70px 0px;
+}
+
+.rasmlar{
+    text-align: center;
+    margin: 0px 10px;
+}
